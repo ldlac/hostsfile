@@ -1,0 +1,7 @@
+{
+  "name": "tiuxo",
+  "description": "Categorized hosts files for DNS based content blocking",
+  "homeurl": "https://github.com/tiuxo/hosts",
+  "url": "tiuxo/hosts/master/ads",
+  "license": "CC BY-SA 4.0"
+}

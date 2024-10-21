@@ -1,0 +1,7 @@
+{
+  "name": "URLHaus",
+  "description": "URLhaus is a project operated by abuse.ch with the purpose of sharing malicious URLs that are being used for malware distribution",
+  "homeurl": "https://urlhaus.abuse.ch/",
+  "url": "https://urlhaus.abuse.ch/downloads/hostfile/",
+  "license": "CC0"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "UncheckyAds",
+  "description": "Windows installers ads sources sites based on https://unchecky.com/ content.",
+  "homeurl": "https://github.com/FadeMind/hosts.extras",
+  "url": "FadeMind/hosts.extras/master/UncheckyAds/hosts",
+  "license": "MIT"
+}

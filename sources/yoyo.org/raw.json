@@ -1,0 +1,7 @@
+{
+  "name": "yoyo.org",
+  "description": "Blocking with ad server and tracking server hostnames.",
+  "homeurl": "https://pgl.yoyo.org/adservers/",
+  "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext",
+  "license": "N/A"
+}

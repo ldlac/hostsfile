@@ -1,0 +1,7 @@
+{
+  "name": "add.Risk",
+  "description": "Risk sites based on [hostsfile.org](https://www.hostsfile.org/hosts.html) content.",
+  "homeurl": "https://github.com/FadeMind/hosts.extras",
+  "url": "FadeMind/hosts.extras/master/add.Risk/hosts",
+  "license": "MIT"
+}

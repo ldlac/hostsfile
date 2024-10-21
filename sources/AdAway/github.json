@@ -1,0 +1,7 @@
+{
+  "name": "AdAway",
+  "description": "AdAway is an open source ad blocker for Android using the hosts file.",
+  "homeurl": "https://adaway.org/",
+  "url": "AdAway/adaway.github.io/master/hosts.txt",
+  "license": "GPLv3+"
+}
