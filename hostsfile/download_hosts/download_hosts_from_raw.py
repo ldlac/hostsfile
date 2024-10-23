@@ -15,14 +15,17 @@ def download_hosts_from_raw(
             source = await file.read()
             data: SourceData = json.loads(source)
             url = data["url"]
+            should_update = data.get("update", True)
 
-            print(f"Updating {data['name']} from {url}")
-            response = await httpclient.get(url)
+            if should_update:
+                print(f"Updating {data['name']} from {url}")
+                response = await httpclient.get(url)
 
-            if status_code := EXPECTED_STATUS_CODES.get(url, None):
-                assert response.status_code == status_code
-            else:
-                response.raise_for_status()
-            return response.content, data["name"]
+                if status_code := EXPECTED_STATUS_CODES.get(url, None):
+                    assert response.status_code == status_code
+                else:
+                    response.raise_for_status()
+                return response.content, data["name"]
+            return None, data["name"]
 
     return _download_hosts_from_raw

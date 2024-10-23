@@ -1,573 +1,578 @@
-cdn.88-f.net
-config.88-f.net
-pr.analytics.console.aws.a2z.com
-prod.pr.analytics.console.aws.a2z.com
-pw.analytics.console.aws.a2z.com
-prod.pw.analytics.console.aws.a2z.com
-aamcf.aamsitecertifier.com
-apps.ad-x.co.uk
-pingapi.accengage.com
-rebootv5.adfuture.cn
-folder.adfuture.cn
-cm.adkmob.com
-ufs.adkmob.com
-profile.adkmob.com
-datam16.adlooxtracking.com
-fotacontrol.adfuture.cn
-rs2.adledge.com
-omax.admarvel.com
-amp.admarvel.com
-fonts.ad.admitad.com
-cm.admaster.com.cn
-media.adnetwork.vn
-iclick.cm.admaster.com.cn
-mcd-mkt-prod31-lb.campaign.adobe.com
-adnetwork.vn
-delivery.adnetwork.vn
-adtag.primetime.adobe.com
-ssptrk.adpopcorn.com
-adpxljs.adpxl.co
-fl.adpxl.co
-adstax-match.adrtx.net
-adstax-match-proxy.adrtx.net
-api.adrtx.net
-cdn.adrtx.net
-de1-bid.adsrvr.org
-rebootv5.adsunflower.com
-folder.adsunflower.com
-adsunflower.com
-tagmans3.adsolutions.com
-ums.adtech.com
-marmalade.adthrive.com
-admp-tc-sati.adtlgc.com
-vz-cdn2.adtng.com
-fota5db.adups.com
-fota5tbk.adups.com
-ht.adups.com
-ph5t.adups.com
-ace-tag.advertising.com
-ads.adaptv.advertising.com
-conversions.adaptv.advertising.com
-log.adaptv.advertising.com
-sync.adaptv.advertising.com
-adserver-us.adtech.advertising.com
-adserver-eu.adtech.advertising.com
-adserver.adtech.advertising.com
-o.cmp.advertising.com
-secure.leadback.advertising.com
-pixel.advertising.com
-cdn.cmp.advertising.com
-prod-m-node-1111.ssp.advertising.com
-prod-m-node-3111.ssp.advertising.com
-prod-m-node-1211.ssp.advertising.com
-prod-m-node-2111.ssp.advertising.com
-advmob.cn
-fota.advmob.cn
-folder.advmob.cn
-e-10077.adzerk.net
-ads.aerserv.com
-debug.aerserv.com
-roundrobin-log.agoop.net
-apportal.airpush.com
-api.airpush.com
-ip1.cdn.stickyadstv.com.akadns.net
-wlb2.cdn.stickyadstv.com.akadns.net
-wlb1.cdn.stickyadstv.com.akadns.net
-certify.alexametrics.com
-certify-js.alexametrics.com
-certify-amp.alexametrics.com
-ads-816899299.ap-southeast-1.elb.amazonaws.com
-ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
-adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com
-log-collectors-73517960.us-east-1.elb.amazonaws.com
-audience-164723144.us-east-1.elb.amazonaws.com
-prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
-tracking-1611167402.us-east-1.elb.amazonaws.com
-ads-b-480313385.us-west-1.elb.amazonaws.com
-ads-c-1854119718.us-west-1.elb.amazonaws.com
-prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
-api.altamob.com
-analytics.anvato.net
-rt.analytics.anvato.net
-assets.anzuinfra.com
-tracker.appadhoc.com
-sdk.appadhoc.com
-experiment.appadhoc.com
-ue.applovin.com
-fvalid.appsflyer.com
-sdk.appsflyer.tk
-ad.apps.fm
-d.appsdt.com
-ad.atdmt.com
-static.ad.atdmt.com
-c.atdmt.com
-cx.atdmt.com
-aidps.atdmt.com
-ec.atdmt.com
-jact.atdmt.com
-switch.atdmt.com
-view.atdmt.com
-track.atom-data.io
-db3aqu.atdmt.com
-ads.avct.cloud
-ads.avocarrot.com
-sdklogs.avocarrot.com
-gtsdk.batmobi.net
-sdk.batmobi.net
-update.sdk.batmobi.net
-api.beaconsinspace.com
-analytics.bestbuy.com
-moat.bfmio.com
-api.bee7.com
-prod.bidr.io
-event.prod.bidr.io
-stinger-ad.bidr.io
-us-east-1.stinger-ad.bidr.io
-us-west-2.stinger-ad.bidr.io
-api-proxy.bee7.com
-graph.gcloud.bluecava.com
-gcloud.bluecava.com
-graph.bluecava.com
-incoming.bm23.com
-hosting-source.bm23.com
-ads.bluelithium.com
-api.britepool.com
-px.britepool.com
-s.btstatic.com
-bugsense.com
-ticks2.bugsense.com
-m-metrics.capitalone.com
-logging.carambo.la
-a1020.casalemedia.com
-collector.bughd.com
-u.cdnwidget.com
-contentapi.celltick.com
-as.chango.com
-sender.clevernt.com
-conductor.clicktale.net
-cas.cluep.com
-dev-as.cluep.com
-ms.cmcm.com
-tealand.cmcm.com
-tileswan.cmcm.com
-magic.cmcm.com
-apple.comscoreresearch.com
-cdn.connatix.com
-core.connatix.com
-i.connatix.com
-pxl.connexity.net
-api.content.ad
-sdk.consoliads.com
-cdne.cpmstar.com
-hk.as.criteo.com
-ebs.criteo.com
-fr.eu.criteo.com
-cat.fr.eu.criteo.com
-rat.fr.eu.criteo.com
-widget.fr.eu.criteo.com
-rat.nl.eu.criteo.com
-am5.vip.prod.criteo.com
-bidder.da1.vip.prod.criteo.com
-par.vip.prod.criteo.com
-widget.par.vip.prod.criteo.com
-bidder.va1.vip.prod.criteo.com
-cat.va1.vip.prod.criteo.com
-gum.va1.vip.prod.criteo.com
-widget.va1.vip.prod.criteo.com
-pub-sdk-cfg.criteo.com
-va.us.criteo.com
-cat.va.us.criteo.com
-rtb.va.us.criteo.com
-widget.va.us.criteo.com
-hk.as.criteo.net
-fr.eu.criteo.net
-csm.fr.eu.criteo.net
-nl.eu.criteo.net
-csm.nl.eu.criteo.net
-am5.vip.prod.criteo.net
-pix.da1.vip.prod.criteo.net
-hk5.vip.prod.criteo.net
-par.vip.prod.criteo.net
-va1.vip.prod.criteo.net
-csm.va1.vip.prod.criteo.net
-static.par.vip.prod.criteo.net
-static.va1.vip.prod.criteo.net
-api.crittercism.com
-apm.crittercism.com
-csm.va.us.criteo.net
-va.us.criteo.net
-txn.ingest.crittercism.com
-step-service.crossinstall.io
-5-7-3-ios.userflows.ingest.crittercism.com
-userflows.ingest.crittercism.com
-5-9-5-ios.userflows.ingest.crittercism.com
-keyword.ad.daum.net
-d806-us.api.decibelinsight.net
-balanced-engage.deltadna.net
-collect11136gwntd.deltadna.net
-engage10854wrdcr.deltadna.net
-engage12981wrdfl.deltadna.net
-engage13764wrdst.deltadna.net
-engage3515gvrnr.deltadna.net
-engage12348wrdvs.deltadna.net
-engage5081wrdch.deltadna.net
-engage8829thscr.deltadna.net
-dmx.districtm.io
-t.domdex.com
-magnetic.t.domdex.com
-tps711.doubleverify.com
-tps10232.doubleverify.com
-static.dynamicyield.com
-gu.dyntrk.com
-controller.duokanbox.com
-deluxe.onetag.io.edgekey.net
-onetag.io.edgekey.net
-production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
-tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
-cbola-ads-1-t3.us-east-1.elasticbeanstalk.com
-cbola-content-1-t3.us-east-1.elasticbeanstalk.com
-cbola-logging-1-t3.us-east-1.elasticbeanstalk.com
-cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com
-wpsconfig4svr.elasticbeanstalk.com
-api-gateway.us-west-2.elasticbeanstalk.com
-emxhb.emxdgt.com
-activate.ensighten.com
-app-config.enhance.co
-adserver-east.extend.tv
-freewheeleventsbidder-east.extend.tv
-telariaeventsbidder-east.extend.tv
-sync.extend.tv
-a.fiksu.com
-x.fidelity-media.com
-fidelity-media.com
-script.fixel.ai
-sdk.fiksu.com
-auth.follow-apps.com
-gw.flurry.com
-sdk.follow-apps.com
-sor-sdk.follow-apps.com
-adc.flyermobi.com
-adbsc.flyermobi.com
-adbsdk.flyermobi.com
-proton.flurry.com
-king-contenido-prod.secure2.footprint.net
-geoip.fotoable.net
-dl.fotoable.com
-logger.foxitcloud.com
-cdn-static.formisimo.com
-c.ftstats.com
-dat.funheroic.com
-mbe-cdn.fyber.com
-sdk-config.fyber.com
-video.fyber.com
-interstitial.fyber.com
-rubick.gameanalytics.com
-api.gameofwhales.com
-hades.getsocial.im
-personalization.centech.glulive.com
-revid.centech.glulive.com
-sin1.geoadnxs.com
-adn-i.sp.gmossp-sp.jp
-adn-d.sp.gmossp-sp.jp
-adn-j.sp.gmossp-sp.jp
-advshield.goforandroid.com
-wo.gumgum.com
-mediaforce.grapeshot.co.uk
-newscorp.grapeshot.co.uk
-johnston.grapeshot.co.uk
-stra.hasmobi.net
-hasmobi.net
-stat.hasmobi.net
-adx.hasmobi.net
-na.hasmobi.net
-trinitymirror.grapeshot.co.uk
-config.hiido.com
-data.iappmobi.com
-id1.cn
-collect.igodigital.com
-trans.hiido.com
-inc2.igexin.com
-talk.igexin.com
-open.talk.igexin.com
-dcys.ijinshan.com
-cmplay.did.ijinshan.com
-tj.ijinshan.com
-kpns.ijinshan.com
-mobad.ijinshan.com
-ct.impactradius.com
-sdk.open.inc2.igexin.com
-open.phone.igexin.com
-open.inc2.igexin.com
-db.utag.ijinshan.com
-utag.ijinshan.com
-cntj.zj.dcys.ijinshan.com
-sdk.inmobi.cn
-mcg-ads.inmobi.com
-au.w.inmobi.com
-vast-events.inner-active.mobi
-vast-events-staging.inner-active.mobi
-event.inner-active.mobi
-event-staging.inner-active.mobi
-w.inmobi.cn
-adcfg.intowow.com
-geoinfo.intowow.com
-fastg8.pool.iponweb.net
-pssvc.iqzone.com
-iam-agof-app.irquest.com
-api.jeeng.com
-users.api.jeeng.com
-sdk.jeeng.com
-telemetries.jeeng.com
-v.irs01.com
-m.irs01.com
-z.irs01.com
-sdk.jiguang.cn
-update.sdk.jiguang.cn
-verification.jiguang.cn
-apiservices.krxd.net
-beacon-ash-prod.krxd.net
-beacon.krxd.net
-beacon-sie.krxd.net
-consumer.krxd.net
-jslog.krxd.net
-link.krxd.net
-usermatch.krxd.net
-wpp.krxd.net
-counter.kingsoft.com
-dataapi.ktplay.com
-track.ktplay.com
-cm.lentainform.com
-s-img.lentainform.com
-servicer.lentainform.com
-pba.aws.lijit.com
-vap1ewr1.lijit.com
-vap1ams1.lijit.com
-vap1ord1.lijit.com
-vap1sfo1.lijit.com
-vap2ams1.lijit.com
-vap2ord1.lijit.com
-vap2sfo1.lijit.com
-vap2ewr1.lijit.com
-vap3ams1.lijit.com
-vap3ewr1.lijit.com
-vap3ord1.lijit.com
-vap4ord1.lijit.com
-vap3sfo1.lijit.com
-vap6ewr1.lijit.com
-vap4ewr1.lijit.com
-vap5ewr1.lijit.com
-vap4sfo1.lijit.com
-cs.lkqd.net
-ssp.lkqd.net
-tealium.hs.llnwd.net
-t.lkqd.net
-v.lkqd.net
-sparkle.locationlabs.com
-api.logentries.com
-slapi-bts.logsss.com
-mm.markandmini.com
-s-cdn-tag.medialytics.com
-banners.mellowads.com
-api-analytics.metaps.com
-api-analytics-bootstrap.metaps.com
-client.midosoo.com
-s-rtb.send.microadinc.com
-send.microadinc.com
-sa.api.intl.miui.com
-ssp.send.microadinc.com
-gcd.mmstat.com
-perf.mmstat.com
-applink.mob.com
-df.mob.com
-gm.mob.com
-exc.mob.com
-guard.mob.com
-mic.mob.com
-push.mob.com
-tcp.push.mob.com
-share.mob.com
-ads.mobadvent.com
-api.mobadvent.com
-sms.mob.com
-ds.mobadvent.com
-et.mobadvent.com
-ssp-api.mobadvent.com
-wifi-test.mobidia.com
-verify.mob.com
-metropcs.mobileposse.com
-mp5-wl.mobileposse.com
-track-east.mobileadtrading.com
-publisher-east.mobileadtrading.com
-analytics.lb.mobileapphelper.com
-api.mobpowertech.com
-sg-tk.mobpowertech.com
-smart.mobvista.com
-api.mobileanjian.com
-ads2.msn.com
-b.ads1.msn.com
-a.ads1.msn.com
-a.ads2.msn.com
-cvt.mydas.mobi
-q.myvisualiq.net
-t.myvisualiq.net
-vt.myvisualiq.net
-sdkconf.msstatic.com
-androidsdk.ads.mp.mydas.mobi
-api.nanigans.com
-cdn.nanigans.com
-ad.myinstashot.com
-vdapp.nend.net
-ccpa.psg.nexstardigital.net
-rtb.ninthdecimal.com
-gtm04.nexac.com
-prod.cloud.ogury.io
-static.track.omguk.com
-synad3.nuffnang.com.my
-events.mobile.optimizely.com
-cm.optaim.com
-hpr.outbrain.com
-vrt.outbrain.com
-prod-collecticon.outlookmobile.com
-bx01.optimix.asia
-bx.optimix.asia
-pixel.parsely.com
-h.parrable.com
-partner.ads.placeiq.com
-pl-v2.presage.io
-p-v2.presage.io
-gads.pubmatic.com
-c.isdspeed.qq.com
-pingfore.qq.com
-wspeed.qq.com
-bk.r-ad.ne.jp
-publishers.revcontent.com
-msdk.rqmob.com
-aws.rubiconproject.com
-beacon-eu-ams3.rubiconproject.com
-stats.aws.rubiconproject.com
-fastlane-adv.rubiconproject.com
-flapi1.rubiconproject.com
-flapi2.rubiconproject.com
-optimized-by-1.rubiconproject.com
-pg-prebid-server-aws-ane1.rubiconproject.com
-optimized-by-2.rubiconproject.com
-pg-prebid-server-aws-usw2.rubiconproject.com
-tap.rubiconproject.com
-tap-cdn.rubiconproject.com
-match.rundsp.com
-ad.samsungadhub.com
-us-ma.sam4m.com
-sdk.scopely.io
-bs.scorecardresearch.com
-metrics.sdkbox.com
-update.sdkbox.com
-mobile-service.segment.com
-wish.securedtouch.com
-static.securedtouch.com
-msntest.serving-sys.com
-ws.sessioncam.com
-btlr-ecs-ap-southeast-1.sharethrough.com
-btlr-ecs-us-west-1.sharethrough.com
-sfp-adserver-cdn.sharethrough.com
-ap.smardroid.com
-qc.smartadserver.com
-rtb-csync-tmk.smartadserver.com
-tmk.smartadserver.com
-api.smartechmetrics.com
-adserver.snapads.com
-api.smbeat.jp
-collector.snplow.net
-com-thebigwillow-prod1.collector.snplow.net
-api.sociaplus.com
-mobile-stats.socialquantum.com
-api.splkmobile.com
-3581a62b.api.splkmobile.com
-9ed5f5b4.api.splkmobile.com
-ff1c0cc5.api.splkmobile.com
-engine.sponsorpay.com
-collector.stats.socialquantum.ru
-den01-search.spotxchange.com
-event.spotxchange.com
-aka.spotxcdn.com
-den01-event.spotxchange.com
-den01.event.spotxchange.com
-iad02-search.spotxchange.com
-iad02-event.spotxchange.com
-cdn.spotxcdn.com
-sin01.event.spotxchange.com
-search.spotxchange.com
-sync.search.spotxchange.com
-sin01.search.spotxchange.com
-den01.sync.search.spotxchange.com
-iad02.sync.search.spotxchange.com
-sin01.sync.search.spotxchange.com
-sin01-event.spotxchange.com
-datplus.springserve.com
-morgdog.springserve.com
-sin01-search.spotxchange.com
-alkutbay.starbolt.io
-sonic-us.supersonicads.com
-guc-api.sonic-us.supersonicads.com
-eu-api.swrve.com
-eu-content.swrve.com
-acme.tango.me
-assets.tapad.com
-bid.tapjoy.com
-ampmetrics.techcrunch.com
-s.thebrighttag.com
-beacon.tingyun.com
-tdcv3.talkingdata.net
-hw-cdn-ap.trafficjunky.net
-vz-cdn.trafficjunky.net
-vz-cdn2.trafficjunky.net
-publishers.tremorhub.com
-sofia.trustx.org
-analytics.ma.tune.com
-api.umbel.com
-tags.api.umbel.com
-alog.umeng.co
-au.umeng.co
-oc.umeng.co
-au.umeng.com
-uop.umeng.com
-stats.umsns.com
-ads.prd.ie.internal.unity3d.com
-stats.unity3d.com
-log.umtrack.com
-event.allnews.uodoo.com
-out.usbla.net
-cs.vdopia.com
-t.vi-serve.com
-vis.vi-serve.com
-ads-secure.videohub.tv
-adserver.videohub.tv
-trk.vidible.tv
-static.vilynx.com
-addelivery-engine-api.voodoo-ads.io
-splash-screen.voodoo-ads.io
-front-logs.voodoo-ads.io
-trackers.voodoo-analytics.io
-mpluswf.ims.vodafone.com
-mplusps.ims.vodafone.com
-dc.webtrends.com
-engine.widespace.com
-pie.wirelessregistry.com
-goload.wecloud.io
-in-spiky.wzrkt.com
-pg.xdrig.com
-push.xdrig.com
-diagnosis.ad.intl.xiaomi.com
-zeus.ad.intl.xiaomi.com
-us.adserver.yahoo.com
-global.adserver.yahoo.com
-visit.webhosting.yahoo.com
-tracking.yieldlove-ad-serving.net
-v2.yieldlove-ad-serving.net
-s.yieldmo.com
-t.global.yyapi.net
-cdn.zarget.com
-appmm.zapr.in
-sdk.zapr.in
-a.zdbb.net
-tracking-server-prod-1.zenmxapps.com
-audience.zeustechnology.com
+pr.analytics.console.aws.a2z.com NXDOMAIN
+prod.pr.analytics.console.aws.a2z.com NXDOMAIN
+pw.analytics.console.aws.a2z.com NXDOMAIN
+prod.pw.analytics.console.aws.a2z.com NXDOMAIN
+cdn.88-f.net NXDOMAIN
+config.88-f.net NXDOMAIN
+aamcf.aamsitecertifier.com NXDOMAIN
+apps.ad-x.co.uk NXDOMAIN
+pingapi.accengage.com NXDOMAIN
+cm.adkmob.com NXDOMAIN
+ufs.adkmob.com NXDOMAIN
+profile.adkmob.com NXDOMAIN
+datam16.adlooxtracking.com NXDOMAIN
+rs2.adledge.com NXDOMAIN
+amp.admarvel.com NXDOMAIN
+omax.admarvel.com NXDOMAIN
+fotacontrol.adfuture.cn NXDOMAIN
+folder.adfuture.cn NXDOMAIN
+rebootv5.adfuture.cn NXDOMAIN
+fonts.ad.admitad.com NXDOMAIN
+cm.admaster.com.cn NXDOMAIN
+iclick.cm.admaster.com.cn NXDOMAIN
+media.adnetwork.vn NXDOMAIN
+delivery.adnetwork.vn NXDOMAIN
+adnetwork.vn NXDOMAIN
+mcd-mkt-prod31-lb.campaign.adobe.com NXDOMAIN
+adtag.primetime.adobe.com NXDOMAIN
+ssptrk.adpopcorn.com NXDOMAIN
+adpxljs.adpxl.co NXDOMAIN
+fl.adpxl.co NXDOMAIN
+adstax-match-proxy.adrtx.net NXDOMAIN
+adstax-match.adrtx.net NXDOMAIN
+api.adrtx.net NXDOMAIN
+cdn.adrtx.net NXDOMAIN
+de1-bid.adsrvr.org NXDOMAIN
+folder.adsunflower.com NXDOMAIN
+rebootv5.adsunflower.com NXDOMAIN
+adsunflower.com NXDOMAIN
+tagmans3.adsolutions.com NXDOMAIN
+ums.adtech.com NXDOMAIN
+marmalade.adthrive.com NXDOMAIN
+admp-tc-sati.adtlgc.com NXDOMAIN
+vz-cdn2.adtng.com NXDOMAIN
+fota5db.adups.com NXDOMAIN
+fota5tbk.adups.com NXDOMAIN
+ht.adups.com NXDOMAIN
+ads.adaptv.advertising.com NXDOMAIN
+sync.adaptv.advertising.com NXDOMAIN
+conversions.adaptv.advertising.com NXDOMAIN
+log.adaptv.advertising.com NXDOMAIN
+ace-tag.advertising.com NXDOMAIN
+ph5t.adups.com NXDOMAIN
+adserver-us.adtech.advertising.com NXDOMAIN
+secure.leadback.advertising.com NXDOMAIN
+pixel.advertising.com NXDOMAIN
+adserver.adtech.advertising.com NXDOMAIN
+adserver-eu.adtech.advertising.com NXDOMAIN
+cdn.cmp.advertising.com NXDOMAIN
+o.cmp.advertising.com NXDOMAIN
+prod-m-node-1111.ssp.advertising.com NXDOMAIN
+prod-m-node-3111.ssp.advertising.com NXDOMAIN
+prod-m-node-2111.ssp.advertising.com NXDOMAIN
+prod-m-node-1211.ssp.advertising.com NXDOMAIN
+fota.advmob.cn NXDOMAIN
+advmob.cn NXDOMAIN
+e-10077.adzerk.net NXDOMAIN
+folder.advmob.cn NXDOMAIN
+ads.aerserv.com NXDOMAIN
+debug.aerserv.com NXDOMAIN
+api.airpush.com NXDOMAIN
+apportal.airpush.com NXDOMAIN
+roundrobin-log.agoop.net NXDOMAIN
+wlb1.cdn.stickyadstv.com.akadns.net NXDOMAIN
+ip1.cdn.stickyadstv.com.akadns.net NXDOMAIN
+wlb2.cdn.stickyadstv.com.akadns.net NXDOMAIN
+certify.alexametrics.com NXDOMAIN
+certify-amp.alexametrics.com NXDOMAIN
+certify-js.alexametrics.com NXDOMAIN
+ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com NXDOMAIN
+ads-816899299.ap-southeast-1.elb.amazonaws.com NXDOMAIN
+prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com NXDOMAIN
+adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com NXDOMAIN
+audience-164723144.us-east-1.elb.amazonaws.com NXDOMAIN
+log-collectors-73517960.us-east-1.elb.amazonaws.com NXDOMAIN
+tracking-1611167402.us-east-1.elb.amazonaws.com NXDOMAIN
+ads-c-1854119718.us-west-1.elb.amazonaws.com NXDOMAIN
+ads-b-480313385.us-west-1.elb.amazonaws.com NXDOMAIN
+prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com NXDOMAIN
+analytics.anvato.net NXDOMAIN
+rt.analytics.anvato.net NXDOMAIN
+assets.anzuinfra.com NXDOMAIN
+api.altamob.com NXDOMAIN
+experiment.appadhoc.com NXDOMAIN
+sdk.appadhoc.com NXDOMAIN
+ue.applovin.com NXDOMAIN
+fvalid.appsflyer.com NXDOMAIN
+d.appsdt.com NXDOMAIN
+tracker.appadhoc.com NXDOMAIN
+sdk.appsflyer.tk NXDOMAIN
+ad.atdmt.com NXDOMAIN
+cx.atdmt.com NXDOMAIN
+c.atdmt.com NXDOMAIN
+ec.atdmt.com NXDOMAIN
+view.atdmt.com NXDOMAIN
+jact.atdmt.com NXDOMAIN
+db3aqu.atdmt.com NXDOMAIN
+track.atom-data.io NXDOMAIN
+static.ad.atdmt.com NXDOMAIN
+aidps.atdmt.com NXDOMAIN
+switch.atdmt.com NXDOMAIN
+ads.avct.cloud NXDOMAIN
+ad.apps.fm NXDOMAIN
+ads.avocarrot.com NXDOMAIN
+sdklogs.avocarrot.com NXDOMAIN
+gtsdk.batmobi.net NXDOMAIN
+sdk.batmobi.net NXDOMAIN
+update.sdk.batmobi.net NXDOMAIN
+analytics.bestbuy.com NXDOMAIN
+api.beaconsinspace.com NXDOMAIN
+moat.bfmio.com NXDOMAIN
+prod.bidr.io NXDOMAIN
+event.prod.bidr.io NXDOMAIN
+stinger-ad.bidr.io NXDOMAIN
+us-east-1.stinger-ad.bidr.io NXDOMAIN
+us-west-2.stinger-ad.bidr.io NXDOMAIN
+gcloud.bluecava.com NXDOMAIN
+graph.gcloud.bluecava.com NXDOMAIN
+graph.bluecava.com NXDOMAIN
+hosting-source.bm23.com NXDOMAIN
+api.bee7.com NXDOMAIN
+api-proxy.bee7.com NXDOMAIN
+incoming.bm23.com NXDOMAIN
+px.britepool.com NXDOMAIN
+s.btstatic.com NXDOMAIN
+collector.bughd.com NXDOMAIN
+bugsense.com NXDOMAIN
+ticks2.bugsense.com NXDOMAIN
+api.britepool.com NXDOMAIN
+ads.bluelithium.com NXDOMAIN
+m-metrics.capitalone.com NXDOMAIN
+a1020.casalemedia.com NXDOMAIN
+logging.carambo.la NXDOMAIN
+u.cdnwidget.com NXDOMAIN
+contentapi.celltick.com NXDOMAIN
+as.chango.com NXDOMAIN
+sender.clevernt.com NXDOMAIN
+conductor.clicktale.net NXDOMAIN
+ms.cmcm.com NXDOMAIN
+dev-as.cluep.com NXDOMAIN
+cas.cluep.com NXDOMAIN
+tileswan.cmcm.com NXDOMAIN
+tealand.cmcm.com NXDOMAIN
+magic.cmcm.com NXDOMAIN
+cdn.connatix.com NXDOMAIN
+core.connatix.com NXDOMAIN
+i.connatix.com NXDOMAIN
+pxl.connexity.net NXDOMAIN
+api.content.ad NXDOMAIN
+apple.comscoreresearch.com NXDOMAIN
+cdne.cpmstar.com NXDOMAIN
+sdk.consoliads.com NXDOMAIN
+hk.as.criteo.com NXDOMAIN
+ebs.criteo.com NXDOMAIN
+cat.fr.eu.criteo.com NXDOMAIN
+rat.fr.eu.criteo.com NXDOMAIN
+fr.eu.criteo.com NXDOMAIN
+widget.fr.eu.criteo.com NXDOMAIN
+rat.nl.eu.criteo.com NXDOMAIN
+am5.vip.prod.criteo.com NXDOMAIN
+bidder.da1.vip.prod.criteo.com NXDOMAIN
+par.vip.prod.criteo.com NXDOMAIN
+widget.par.vip.prod.criteo.com NXDOMAIN
+bidder.va1.vip.prod.criteo.com NXDOMAIN
+cat.va1.vip.prod.criteo.com NXDOMAIN
+gum.va1.vip.prod.criteo.com NXDOMAIN
+widget.va1.vip.prod.criteo.com NXDOMAIN
+pub-sdk-cfg.criteo.com NXDOMAIN
+va.us.criteo.com NXDOMAIN
+cat.va.us.criteo.com NXDOMAIN
+rtb.va.us.criteo.com NXDOMAIN
+widget.va.us.criteo.com NXDOMAIN
+fr.eu.criteo.net NXDOMAIN
+csm.fr.eu.criteo.net NXDOMAIN
+nl.eu.criteo.net NXDOMAIN
+csm.nl.eu.criteo.net NXDOMAIN
+hk.as.criteo.net NXDOMAIN
+am5.vip.prod.criteo.net NXDOMAIN
+pix.da1.vip.prod.criteo.net NXDOMAIN
+hk5.vip.prod.criteo.net NXDOMAIN
+par.vip.prod.criteo.net NXDOMAIN
+static.par.vip.prod.criteo.net NXDOMAIN
+csm.va1.vip.prod.criteo.net NXDOMAIN
+va1.vip.prod.criteo.net NXDOMAIN
+static.va1.vip.prod.criteo.net NXDOMAIN
+va.us.criteo.net NXDOMAIN
+csm.va.us.criteo.net NXDOMAIN
+txn.ingest.crittercism.com NXDOMAIN
+userflows.ingest.crittercism.com NXDOMAIN
+5-7-3-ios.userflows.ingest.crittercism.com NXDOMAIN
+apm.crittercism.com NXDOMAIN
+api.crittercism.com NXDOMAIN
+step-service.crossinstall.io NXDOMAIN
+5-9-5-ios.userflows.ingest.crittercism.com NXDOMAIN
+keyword.ad.daum.net NXDOMAIN
+d806-us.api.decibelinsight.net NXDOMAIN
+balanced-engage.deltadna.net NXDOMAIN
+collect11136gwntd.deltadna.net NXDOMAIN
+engage10854wrdcr.deltadna.net NXDOMAIN
+engage12348wrdvs.deltadna.net NXDOMAIN
+engage12981wrdfl.deltadna.net NXDOMAIN
+engage3515gvrnr.deltadna.net NXDOMAIN
+engage5081wrdch.deltadna.net NXDOMAIN
+engage8829thscr.deltadna.net NXDOMAIN
+engage13764wrdst.deltadna.net NXDOMAIN
+dmx.districtm.io NXDOMAIN
+tps10232.doubleverify.com NXDOMAIN
+tps711.doubleverify.com NXDOMAIN
+magnetic.t.domdex.com NXDOMAIN
+t.domdex.com NXDOMAIN
+static.dynamicyield.com NXDOMAIN
+gu.dyntrk.com NXDOMAIN
+controller.duokanbox.com NXDOMAIN
+deluxe.onetag.io.edgekey.net NXDOMAIN
+onetag.io.edgekey.net NXDOMAIN
+production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com NXDOMAIN
+tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com NXDOMAIN
+cbola-ads-1-t3.us-east-1.elasticbeanstalk.com NXDOMAIN
+cbola-analytics-c5-6.us-east-1.elasticbeanstalk.com NXDOMAIN
+cbola-content-1-t3.us-east-1.elasticbeanstalk.com NXDOMAIN
+cbola-logging-1-t3.us-east-1.elasticbeanstalk.com NXDOMAIN
+api-gateway.us-west-2.elasticbeanstalk.com NXDOMAIN
+wpsconfig4svr.elasticbeanstalk.com NXDOMAIN
+emxhb.emxdgt.com NXDOMAIN
+activate.ensighten.com NXDOMAIN
+app-config.enhance.co NXDOMAIN
+sync.extend.tv NXDOMAIN
+freewheeleventsbidder-east.extend.tv NXDOMAIN
+adserver-east.extend.tv NXDOMAIN
+telariaeventsbidder-east.extend.tv NXDOMAIN
+a.fiksu.com NXDOMAIN
+sdk.fiksu.com NXDOMAIN
+gw.flurry.com NXDOMAIN
+proton.flurry.com NXDOMAIN
+king-contenido-prod.secure2.footprint.net NXDOMAIN
+sor-sdk.follow-apps.com NXDOMAIN
+auth.follow-apps.com NXDOMAIN
+script.fixel.ai NXDOMAIN
+sdk.follow-apps.com NXDOMAIN
+adbsc.flyermobi.com NXDOMAIN
+cdn-static.formisimo.com NXDOMAIN
+adbsdk.flyermobi.com NXDOMAIN
+adc.flyermobi.com NXDOMAIN
+logger.foxitcloud.com NXDOMAIN
+dl.fotoable.com NXDOMAIN
+geoip.fotoable.net NXDOMAIN
+mbe-cdn.fyber.com NXDOMAIN
+dat.funheroic.com NXDOMAIN
+interstitial.fyber.com NXDOMAIN
+sdk-config.fyber.com NXDOMAIN
+c.ftstats.com NXDOMAIN
+video.fyber.com NXDOMAIN
+rubick.gameanalytics.com NXDOMAIN
+api.gameofwhales.com NXDOMAIN
+personalization.centech.glulive.com NXDOMAIN
+hades.getsocial.im NXDOMAIN
+revid.centech.glulive.com NXDOMAIN
+sin1.geoadnxs.com NXDOMAIN
+adn-d.sp.gmossp-sp.jp NXDOMAIN
+adn-i.sp.gmossp-sp.jp NXDOMAIN
+advshield.goforandroid.com NXDOMAIN
+adn-j.sp.gmossp-sp.jp NXDOMAIN
+wo.gumgum.com NXDOMAIN
+adx.hasmobi.net NXDOMAIN
+na.hasmobi.net NXDOMAIN
+stra.hasmobi.net NXDOMAIN
+hasmobi.net NXDOMAIN
+stat.hasmobi.net NXDOMAIN
+johnston.grapeshot.co.uk NXDOMAIN
+newscorp.grapeshot.co.uk NXDOMAIN
+mediaforce.grapeshot.co.uk NXDOMAIN
+trinitymirror.grapeshot.co.uk NXDOMAIN
+data.iappmobi.com NXDOMAIN
+id1.cn NXDOMAIN
+sdk.open.inc2.igexin.com NXDOMAIN
+config.hiido.com NXDOMAIN
+trans.hiido.com NXDOMAIN
+collect.igodigital.com NXDOMAIN
+inc2.igexin.com NXDOMAIN
+open.inc2.igexin.com NXDOMAIN
+talk.igexin.com NXDOMAIN
+open.phone.igexin.com NXDOMAIN
+dcys.ijinshan.com NXDOMAIN
+cmplay.did.ijinshan.com NXDOMAIN
+kpns.ijinshan.com NXDOMAIN
+utag.ijinshan.com NXDOMAIN
+mobad.ijinshan.com NXDOMAIN
+tj.ijinshan.com NXDOMAIN
+ct.impactradius.com NXDOMAIN
+open.talk.igexin.com NXDOMAIN
+cntj.zj.dcys.ijinshan.com NXDOMAIN
+db.utag.ijinshan.com NXDOMAIN
+sdk.inmobi.cn NXDOMAIN
+mcg-ads.inmobi.com NXDOMAIN
+au.w.inmobi.com NXDOMAIN
+vast-events.inner-active.mobi NXDOMAIN
+event.inner-active.mobi NXDOMAIN
+event-staging.inner-active.mobi NXDOMAIN
+vast-events-staging.inner-active.mobi NXDOMAIN
+w.inmobi.cn NXDOMAIN
+adcfg.intowow.com NXDOMAIN
+geoinfo.intowow.com NXDOMAIN
+pssvc.iqzone.com NXDOMAIN
+fastg8.pool.iponweb.net NXDOMAIN
+m.irs01.com NXDOMAIN
+iam-agof-app.irquest.com NXDOMAIN
+users.api.jeeng.com NXDOMAIN
+sdk.jeeng.com NXDOMAIN
+api.jeeng.com NXDOMAIN
+update.sdk.jiguang.cn NXDOMAIN
+telemetries.jeeng.com NXDOMAIN
+verification.jiguang.cn NXDOMAIN
+sdk.jiguang.cn NXDOMAIN
+z.irs01.com NXDOMAIN
+v.irs01.com NXDOMAIN
+apiservices.krxd.net NXDOMAIN
+beacon.krxd.net NXDOMAIN
+beacon-ash-prod.krxd.net NXDOMAIN
+beacon-sie.krxd.net NXDOMAIN
+consumer.krxd.net NXDOMAIN
+usermatch.krxd.net NXDOMAIN
+jslog.krxd.net NXDOMAIN
+link.krxd.net NXDOMAIN
+wpp.krxd.net NXDOMAIN
+counter.kingsoft.com NXDOMAIN
+dataapi.ktplay.com NXDOMAIN
+track.ktplay.com NXDOMAIN
+cm.lentainform.com NXDOMAIN
+servicer.lentainform.com NXDOMAIN
+s-img.lentainform.com NXDOMAIN
+pba.aws.lijit.com NXDOMAIN
+vap1ewr1.lijit.com NXDOMAIN
+vap1ams1.lijit.com NXDOMAIN
+vap1ord1.lijit.com NXDOMAIN
+vap2ams1.lijit.com NXDOMAIN
+vap2ewr1.lijit.com NXDOMAIN
+vap1sfo1.lijit.com NXDOMAIN
+vap2ord1.lijit.com NXDOMAIN
+vap2sfo1.lijit.com NXDOMAIN
+vap3ams1.lijit.com NXDOMAIN
+vap3sfo1.lijit.com NXDOMAIN
+vap3ewr1.lijit.com NXDOMAIN
+vap3ord1.lijit.com NXDOMAIN
+vap4ewr1.lijit.com NXDOMAIN
+vap4ord1.lijit.com NXDOMAIN
+vap4sfo1.lijit.com NXDOMAIN
+vap5ewr1.lijit.com NXDOMAIN
+vap6ewr1.lijit.com NXDOMAIN
+cs.lkqd.net NXDOMAIN
+ad.lkqd.net NXDOMAIN
+creative.lkqd.net NXDOMAIN
+tealium.hs.llnwd.net NXDOMAIN
+ssp.lkqd.net NXDOMAIN
+t.lkqd.net NXDOMAIN
+v.lkqd.net NXDOMAIN
+api.logentries.com NXDOMAIN
+slapi-bts.logsss.com NXDOMAIN
+sparkle.locationlabs.com NXDOMAIN
+mm.markandmini.com NXDOMAIN
+s-cdn-tag.medialytics.com NXDOMAIN
+banners.mellowads.com NXDOMAIN
+api-analytics.metaps.com NXDOMAIN
+api-analytics-bootstrap.metaps.com NXDOMAIN
+client.midosoo.com NXDOMAIN
+sa.api.intl.miui.com NXDOMAIN
+perf.mmstat.com NXDOMAIN
+ssp.send.microadinc.com NXDOMAIN
+gcd.mmstat.com NXDOMAIN
+s-rtb.send.microadinc.com NXDOMAIN
+send.microadinc.com NXDOMAIN
+gm.mob.com NXDOMAIN
+applink.mob.com NXDOMAIN
+guard.mob.com NXDOMAIN
+df.mob.com NXDOMAIN
+exc.mob.com NXDOMAIN
+mic.mob.com NXDOMAIN
+push.mob.com NXDOMAIN
+ads.mobadvent.com NXDOMAIN
+tcp.push.mob.com NXDOMAIN
+share.mob.com NXDOMAIN
+api.mobadvent.com NXDOMAIN
+ds.mobadvent.com NXDOMAIN
+et.mobadvent.com NXDOMAIN
+ssp-api.mobadvent.com NXDOMAIN
+sms.mob.com NXDOMAIN
+verify.mob.com NXDOMAIN
+wifi-test.mobidia.com NXDOMAIN
+track-east.mobileadtrading.com NXDOMAIN
+publisher-east.mobileadtrading.com NXDOMAIN
+analytics.lb.mobileapphelper.com NXDOMAIN
+metropcs.mobileposse.com NXDOMAIN
+mp5-wl.mobileposse.com NXDOMAIN
+api.mobpowertech.com NXDOMAIN
+sg-tk.mobpowertech.com NXDOMAIN
+api.mobileanjian.com NXDOMAIN
+smart.mobvista.com NXDOMAIN
+ads2.msn.com NXDOMAIN
+a.ads2.msn.com NXDOMAIN
+a.ads1.msn.com NXDOMAIN
+t.myvisualiq.net NXDOMAIN
+vt.myvisualiq.net NXDOMAIN
+cvt.mydas.mobi NXDOMAIN
+q.myvisualiq.net NXDOMAIN
+api.nanigans.com NXDOMAIN
+cdn.nanigans.com NXDOMAIN
+ad.myinstashot.com NXDOMAIN
+b.ads1.msn.com NXDOMAIN
+vdapp.nend.net NXDOMAIN
+sdkconf.msstatic.com NXDOMAIN
+ccpa.psg.nexstardigital.net NXDOMAIN
+rtb.ninthdecimal.com NXDOMAIN
+synad3.nuffnang.com.my NXDOMAIN
+androidsdk.ads.mp.mydas.mobi NXDOMAIN
+prod.cloud.ogury.io NXDOMAIN
+static.track.omguk.com NXDOMAIN
+gtm04.nexac.com NXDOMAIN
+events.mobile.optimizely.com NXDOMAIN
+cm.optaim.com NXDOMAIN
+hpr.outbrain.com NXDOMAIN
+vrt.outbrain.com NXDOMAIN
+prod-collecticon.outlookmobile.com NXDOMAIN
+h.parrable.com NXDOMAIN
+pixel.parsely.com NXDOMAIN
+bx.optimix.asia NXDOMAIN
+bx01.optimix.asia NXDOMAIN
+partner.ads.placeiq.com NXDOMAIN
+pl-v2.presage.io NXDOMAIN
+p-v2.presage.io NXDOMAIN
+gads.pubmatic.com NXDOMAIN
+wspeed.qq.com NXDOMAIN
+tajs.qq.com NXDOMAIN
+c.isdspeed.qq.com NXDOMAIN
+omgmta.qq.com NXDOMAIN
+pingfore.qq.com NXDOMAIN
+bk.r-ad.ne.jp NXDOMAIN
+pingtcss.qq.com NXDOMAIN
+publishers.revcontent.com NXDOMAIN
+msdk.rqmob.com NXDOMAIN
+beacon-eu-ams3.rubiconproject.com NXDOMAIN
+fastlane-adv.rubiconproject.com NXDOMAIN
+aws.rubiconproject.com NXDOMAIN
+stats.aws.rubiconproject.com NXDOMAIN
+flapi1.rubiconproject.com NXDOMAIN
+optimized-by-1.rubiconproject.com NXDOMAIN
+flapi2.rubiconproject.com NXDOMAIN
+pg-prebid-server-aws-ane1.rubiconproject.com NXDOMAIN
+optimized-by-2.rubiconproject.com NXDOMAIN
+pg-prebid-server-aws-usw2.rubiconproject.com NXDOMAIN
+tap.rubiconproject.com NXDOMAIN
+tap-cdn.rubiconproject.com NXDOMAIN
+match.rundsp.com NXDOMAIN
+ad.samsungadhub.com NXDOMAIN
+bs.scorecardresearch.com NXDOMAIN
+sdk.scopely.io NXDOMAIN
+metrics.sdkbox.com NXDOMAIN
+mobile-service.segment.com NXDOMAIN
+us-ma.sam4m.com NXDOMAIN
+wish.securedtouch.com NXDOMAIN
+update.sdkbox.com NXDOMAIN
+static.securedtouch.com NXDOMAIN
+msntest.serving-sys.com NXDOMAIN
+btlr-ecs-ap-southeast-1.sharethrough.com NXDOMAIN
+btlr-ecs-us-west-1.sharethrough.com NXDOMAIN
+ws.sessioncam.com NXDOMAIN
+sfp-adserver-cdn.sharethrough.com NXDOMAIN
+ap.smardroid.com NXDOMAIN
+qc.smartadserver.com NXDOMAIN
+rtb-csync-tmk.smartadserver.com NXDOMAIN
+tmk.smartadserver.com NXDOMAIN
+adserver.snapads.com NXDOMAIN
+api.smartechmetrics.com NXDOMAIN
+collector.snplow.net NXDOMAIN
+com-thebigwillow-prod1.collector.snplow.net NXDOMAIN
+mobile-stats.socialquantum.com NXDOMAIN
+api.sociaplus.com NXDOMAIN
+api.smbeat.jp NXDOMAIN
+collector.stats.socialquantum.ru NXDOMAIN
+3581a62b.api.splkmobile.com NXDOMAIN
+9ed5f5b4.api.splkmobile.com NXDOMAIN
+api.splkmobile.com NXDOMAIN
+ff1c0cc5.api.splkmobile.com NXDOMAIN
+engine.sponsorpay.com NXDOMAIN
+cdn.spotxcdn.com NXDOMAIN
+den01-event.spotxchange.com NXDOMAIN
+search.spotxchange.com NXDOMAIN
+den01-search.spotxchange.com NXDOMAIN
+sync.search.spotxchange.com NXDOMAIN
+iad02-event.spotxchange.com NXDOMAIN
+iad02-search.spotxchange.com NXDOMAIN
+sin01.search.spotxchange.com NXDOMAIN
+event.spotxchange.com NXDOMAIN
+den01.sync.search.spotxchange.com NXDOMAIN
+iad02.sync.search.spotxchange.com NXDOMAIN
+sin01-event.spotxchange.com NXDOMAIN
+sin01-search.spotxchange.com NXDOMAIN
+morgdog.springserve.com NXDOMAIN
+datplus.springserve.com NXDOMAIN
+aka.spotxcdn.com NXDOMAIN
+den01.event.spotxchange.com NXDOMAIN
+sin01.event.spotxchange.com NXDOMAIN
+sin01.sync.search.spotxchange.com NXDOMAIN
+alkutbay.starbolt.io NXDOMAIN
+sonic-us.supersonicads.com NXDOMAIN
+guc-api.sonic-us.supersonicads.com NXDOMAIN
+eu-api.swrve.com NXDOMAIN
+eu-content.swrve.com NXDOMAIN
+assets.tapad.com NXDOMAIN
+acme.tango.me NXDOMAIN
+bid.tapjoy.com NXDOMAIN
+ampmetrics.techcrunch.com NXDOMAIN
+s.thebrighttag.com NXDOMAIN
+tdcv3.talkingdata.net NXDOMAIN
+beacon.tingyun.com NXDOMAIN
+vz-cdn.trafficjunky.net NXDOMAIN
+hw-cdn-ap.trafficjunky.net NXDOMAIN
+vz-cdn2.trafficjunky.net NXDOMAIN
+publishers.tremorhub.com NXDOMAIN
+sofia.trustx.org NXDOMAIN
+analytics.ma.tune.com NXDOMAIN
+api.umbel.com NXDOMAIN
+tags.api.umbel.com NXDOMAIN
+au.umeng.co NXDOMAIN
+oc.umeng.co NXDOMAIN
+alog.umeng.co NXDOMAIN
+au.umeng.com NXDOMAIN
+stats.umsns.com NXDOMAIN
+uop.umeng.com NXDOMAIN
+log.umtrack.com NXDOMAIN
+ads.prd.ie.internal.unity3d.com NXDOMAIN
+stats.unity3d.com NXDOMAIN
+event.allnews.uodoo.com NXDOMAIN
+out.usbla.net NXDOMAIN
+cs.vdopia.com NXDOMAIN
+t.vi-serve.com NXDOMAIN
+vis.vi-serve.com NXDOMAIN
+adserver.videohub.tv NXDOMAIN
+ads-secure.videohub.tv NXDOMAIN
+trk.vidible.tv NXDOMAIN
+static.vilynx.com NXDOMAIN
+addelivery-engine-api.voodoo-ads.io NXDOMAIN
+front-logs.voodoo-ads.io NXDOMAIN
+splash-screen.voodoo-ads.io NXDOMAIN
+trackers.voodoo-analytics.io NXDOMAIN
+mplusps.ims.vodafone.com NXDOMAIN
+mpluswf.ims.vodafone.com NXDOMAIN
+dc.webtrends.com NXDOMAIN
+pie.wirelessregistry.com NXDOMAIN
+engine.widespace.com NXDOMAIN
+goload.wecloud.io NXDOMAIN
+in-spiky.wzrkt.com NXDOMAIN
+diagnosis.ad.intl.xiaomi.com NXDOMAIN
+push.xdrig.com NXDOMAIN
+zeus.ad.intl.xiaomi.com NXDOMAIN
+us.adserver.yahoo.com NXDOMAIN
+pg.xdrig.com NXDOMAIN
+global.adserver.yahoo.com NXDOMAIN
+visit.webhosting.yahoo.com NXDOMAIN
+tracking.yieldlove-ad-serving.net NXDOMAIN
+v2.yieldlove-ad-serving.net NXDOMAIN
+s.yieldmo.com NXDOMAIN
+t.global.yyapi.net NXDOMAIN
+appmm.zapr.in NXDOMAIN
+sdk.zapr.in NXDOMAIN
+sdk.zadn.vn NXDOMAIN
+log.sdk.zadn.vn NXDOMAIN
+a.zdbb.net NXDOMAIN
+tracking-server-prod-1.zenmxapps.com NXDOMAIN
+cdn.zarget.com NXDOMAIN
+audience.zeustechnology.com NXDOMAIN

@@ -5,6 +5,8 @@ import anyio.to_thread
 from hostsfile.dns_watcher.windows.build_knowns_domains import (
     build_knowns_domains,
 )
+from hostsfile.generate_abp_file import generate_abp_file
+from hostsfile.generate_diff_file import generate_diff_file
 from hostsfile.generate_domains_file import generate_domains_file
 from hostsfile.generate_hosts_file import generate_hosts_file
 from hostsfile.generate_overlap_file import generate_overlap_file
@@ -29,7 +31,10 @@ async def gather_all_domains(include_sleepers: bool) -> tuple[set[str], int, int
                 sleepers_source_file = dir.joinpath("sleepers")
                 if await sleepers_source_file.exists():
                     async with await sleepers_source_file.open() as sleepers_file:
-                        sleepers_domains = (await sleepers_file.read()).splitlines()
+                        sleepers_domains = [
+                            line.split(" ")[0]
+                            for line in (await sleepers_file.read()).splitlines()
+                        ]
                         sleepers_domains_count += len(sleepers_domains)
                         final_domains.difference_update(sleepers_domains)
 
@@ -74,5 +79,9 @@ async def generate(
             )
         case Command.domains:
             await generate_domains_file(list(final_domains))
+        case Command.abp:
+            await generate_abp_file(list(final_domains))
         case Command.overlap:
             await generate_overlap_file()
+        case Command.diff:
+            await generate_diff_file()

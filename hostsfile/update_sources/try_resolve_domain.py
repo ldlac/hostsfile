@@ -12,11 +12,23 @@ async def try_resolve_domain(
         try:
             resolver = dns.asyncresolver.Resolver()
             resolver.nameservers = NAMESERVERS
+            result = await resolver.resolve(domain, "A", raise_on_no_answer=False)
+            if len(result) > 0:
+                return
+
+            result = await resolver.resolve(domain, "AAAA", raise_on_no_answer=False)
+            if len(result) > 0:
+                return
+
+            result = await resolver.resolve(domain, "CNAME", raise_on_no_answer=False)
+            if len(result) > 0:
+                return
+
             result = await resolver.resolve(domain, "NS", raise_on_no_answer=False)
             ns_records = [str(r) for r in result]
             if any("parking" in ns.lower() for ns in ns_records):
-                await file.write(f"{domain}\n")
+                await file.write(f"{domain} PARKED\n")
         except (dns.resolver.NoNameservers, dns.resolver.LifetimeTimeout):
             pass
         except dns.resolver.NXDOMAIN:
-            await file.write(f"{domain}\n")
+            await file.write(f"{domain} NXDOMAIN\n")

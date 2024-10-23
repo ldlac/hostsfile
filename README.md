@@ -26,8 +26,8 @@ included:
 | add.Spam        | [link](https://github.com/FadeMind/hosts.extras)          | MIT                             |
 | Badd Boyz Hosts | [link](https://github.com/mitchellkrogza/Badd-Boyz-Hosts) | MIT                             |
 | hostsVN         | [link](https://github.com/bigdargon/hostsVN)              | MIT                             |
-| KADhosts        | [link](https://kadantiscam.netlify.app/)                  | CC BY-SA 4.0                    |
 | mvps            | [link](https://winhelp2002.mvps.org/)                     | CC BY-NC-SA 4.0                 |
+| oisd            | [link](https://oisd.nl/)                                  |                                 |
 | someonewhocares | [link](https://someonewhocares.org/hosts/)                | non-commercial with attribution |
 | StevenBlack     | [link](https://github.com/StevenBlack/hosts/)             | MIT                             |
 | tiuxo           | [link](https://github.com/tiuxo/hosts)                    | CC BY 4.0                       |
@@ -44,6 +44,7 @@ included:
       - `hosts` An hosts file, an unified hosts file
       - `domains` A domains file, an unified list of domains
       - `custom_hosts` A custom hosts file, an unified hosts file based on your dns traffic
+      - `diff` Generates a list of the unique domains that the source has compared to others
 
 `--target-ip <ip>` or `-i <ip>`
 

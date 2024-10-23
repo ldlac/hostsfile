@@ -1,7 +1,0 @@
-{
-  "name": "KADhosts",
-  "description": "Wersja hosts, PiHole, dnsmasq, domenowa (Forti Guard) filtrów KAD",
-  "homeurl": "https://github.com/FiltersHeroes/KADhosts",
-  "url": "FiltersHeroes/KADhosts/master/KADhosts.txt",
-  "license": "CC BY-SA 4.0"
-}

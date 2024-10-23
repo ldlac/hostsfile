@@ -6,3 +6,5 @@ class Command(str, Enum):
     custom_hosts = "custom_hosts"
     domains = "domains"
     overlap = "overlap"
+    diff = "diff"
+    abp = "abp"
